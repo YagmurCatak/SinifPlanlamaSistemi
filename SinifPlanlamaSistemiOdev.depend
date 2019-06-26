@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1509322318 source:c:\users\yagmur\desktop\sinifplanlamasistemiodev\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1510862633 source:c:\users\yagmur\desktop\sýnýf planlama sistemi\sinifplanlamasistemiodev\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
